@@ -1,2 +1,2 @@
 # blockchain-and-antifragility
-This paper/repository explores blockchain and its antifragile attributes and how blockchain networks can and should be setup to ensure it is really anti fragile (across multiple cloud - Azure, AWS, GCP, on-premise, etc)
+This paper/repository explores blockchain and its antifragile attributes and how blockchain networks can and should be setup to ensure that the blockchain network preserves its fundamental anti fragile attributes. For example, setting up blockchain nodes across multiple cloud - Azure, AWS, GCP - and even on-premise, can go a long way in ensuring and preserving blockchain anti-fragility.
